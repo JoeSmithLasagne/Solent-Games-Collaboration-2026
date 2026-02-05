@@ -1,7 +1,0 @@
-hello world level1
-
-abadg 
-sfg
-sfd
-
-move player to new pos

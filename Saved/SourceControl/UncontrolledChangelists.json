@@ -1,0 +1,48 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/0tales93/OneDrive - Solent University/OneDrive - Southampton Solent University/Documents/Unreal Projects/SCTest_1/Content/Combat/Inputs/InputActions/IA_Special1.uasset",
+				"C:/Users/0tales93/OneDrive - Solent University/OneDrive - Southampton Solent University/Documents/Unreal Projects/SCTest_1/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"C:/Users/0tales93/OneDrive - Solent University/OneDrive - Southampton Solent University/Documents/Unreal Projects/SCTest_1/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/0tales93/OneDrive - Solent University/OneDrive - Southampton Solent University/Documents/Unreal Projects/SCTest_1/Content/Combat/Inputs/IMC_Combat.uasset",
+				"C:/Users/0tales93/OneDrive - Solent University/OneDrive - Southampton Solent University/Documents/Unreal Projects/SCTest_1/Content/Combat/Inputs/InputActions/IA_M1.uasset",
+				"C:/Users/0tales93/OneDrive - Solent University/OneDrive - Southampton Solent University/Documents/Unreal Projects/SCTest_1/Content/Combat/Inputs/InputActions/IA_M2.uasset",
+				"C:/Users/0tales93/OneDrive - Solent University/OneDrive - Southampton Solent University/Documents/Unreal Projects/SCTest_1/Content/Combat/Inputs/InputActions/IA_Special2.uasset",
+				"C:/Users/0tales93/OneDrive - Solent University/OneDrive - Southampton Solent University/Documents/Unreal Projects/SCTest_1/Content/Combat/Inputs/InputActions/IA_Special3.uasset",
+				"C:/Users/0tales93/OneDrive - Solent University/OneDrive - Southampton Solent University/Documents/Unreal Projects/SCTest_1/Content/Combat/BPC_CombatController.uasset",
+				"C:/Users/0tales93/OneDrive - Solent University/OneDrive - Southampton Solent University/Documents/Unreal Projects/SCTest_1/Content/Combat/BPC_Test1.uasset",
+				"C:/Users/0tales93/OneDrive - Solent University/OneDrive - Southampton Solent University/Documents/Unreal Projects/SCTest_1/Content/ThirdPerson/Blueprints/BP_PlayerController.uasset",
+				"C:/Users/0tales93/OneDrive - Solent University/OneDrive - Southampton Solent University/Documents/Unreal Projects/SCTest_1 5.6/Content/Combat/BPC_CombatController.uasset",
+				"C:/Users/0tales93/OneDrive - Solent University/OneDrive - Southampton Solent University/Documents/Unreal Projects/SCTest_1 5.6/Content/Combat/BPI_Test.uasset",
+				"C:/Users/0tales93/OneDrive - Solent University/OneDrive - Southampton Solent University/Documents/Unreal Projects/SCTest_1 5.6/Content/ThirdPerson/Blueprints/BP_PlayerController.uasset",
+				"C:/Users/0tales93/OneDrive - Solent University/OneDrive - Southampton Solent University/Documents/Unreal Projects/SCTest_1 5.6/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/0tales93/OneDrive - Solent University/OneDrive - Southampton Solent University/Documents/Unreal Projects/SCTest_1 5.6/Content/Combat/BPC_Test1.uasset",
+				"C:/Users/0tales93/OneDrive - Solent University/OneDrive - Southampton Solent University/Documents/Unreal Projects/SCTest_1 Current/Content/Combat/BPC_CombatController.uasset",
+				"C:/Users/0tales93/OneDrive - Solent University/OneDrive - Southampton Solent University/Documents/Unreal Projects/SCTest_1 Current/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/C/RX/VO6V8CL6OMOCKXJJ3SAQHL.uasset",
+				"C:/Users/0tales93/OneDrive - Solent University/OneDrive - Southampton Solent University/Documents/Unreal Projects/SCTest_1 Current/Content/TestObjects/BP_Test.uasset",
+				"C:/Users/0tales93/OneDrive - Solent University/OneDrive - Southampton Solent University/Documents/Unreal Projects/SCTest_1 Current/Content/Combat/BPFL_HitboxManager.uasset",
+				"C:/Users/0tales93/OneDrive - Solent University/OneDrive - Southampton Solent University/Documents/Unreal Projects/SCTest_1 Current/Content/Combat/BPC_Test1.uasset",
+				"C:/Users/0tales93/OneDrive - Solent University/OneDrive - Southampton Solent University/Documents/Unreal Projects/SCTest_1 Current/Content/ThirdPerson/Blueprints/BP_PlayerController.uasset",
+				"C:/Users/0tales93/OneDrive - Solent University/OneDrive - Southampton Solent University/Documents/Unreal Projects/SCTest_1 Current/Content/Combat/BPI_CombatInterface.uasset",
+				"C:/Users/0tales93/OneDrive - Solent University/OneDrive - Southampton Solent University/Documents/Unreal Projects/SCTest_1 Current/Content/Combat/Structs/Struct_HitboxData.uasset",
+				"C:/Users/0tales93/OneDrive - Solent University/OneDrive - Southampton Solent University/Documents/Unreal Projects/SCTest_1 Current/Content/Combat/BPC_StaminaSystem.uasset",
+				"C:/Users/0tales93/OneDrive - Solent University/OneDrive - Southampton Solent University/Documents/Unreal Projects/SCTest_1 Current 5.6/Content/ThirdPerson/Blueprints/BP_PlayerController.uasset",
+				"C:/Users/0tales93/OneDrive - Solent University/OneDrive - Southampton Solent University/Documents/Unreal Projects/SCTest_1 Current 5.6/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/0tales93/OneDrive - Solent University/OneDrive - Southampton Solent University/Documents/Unreal Projects/SCTest_1 Current 5.6/Content/Combat/BPC_CombatController.uasset",
+				"C:/Users/0tales93/OneDrive - Solent University/OneDrive - Southampton Solent University/Documents/Unreal Projects/SCTest_1 Current 5.6/Content/Combat/BPC_Test1.uasset",
+				"C:/Users/0tales93/OneDrive - Solent University/OneDrive - Southampton Solent University/Documents/Unreal Projects/SCTest_1 Current/Content/Combat/BPI_.uasset",
+				"C:/Users/0tales93/OneDrive - Solent University/OneDrive - Southampton Solent University/Documents/Unreal Projects/SCTest_1 Current/Content/Combat/BPI_Test.uasset",
+				"C:/Users/0tales93/OneDrive - Solent University/OneDrive - Southampton Solent University/Documents/Unreal Projects/SCTest_1 5.6 5.6/Content/ThirdPerson/Blueprints/BP_PlayerController.uasset",
+				"C:/Users/0tales93/OneDrive - Solent University/OneDrive - Southampton Solent University/Documents/Unreal Projects/SCTest_1 5.6 5.6/Content/Combat/BPC_CombatController.uasset",
+				"C:/Users/0tales93/OneDrive - Solent University/OneDrive - Southampton Solent University/Documents/Unreal Projects/SCTest_1 5.6 5.6/Content/Combat/BPI_Test.uasset",
+				"C:/Users/0tales93/OneDrive - Solent University/OneDrive - Southampton Solent University/Documents/Unreal Projects/SCTest_1 5.6 5.6/Content/Combat/Inputs/InputActions/IA_M1.uasset",
+				"C:/Users/0tales93/OneDrive - Solent University/OneDrive - Southampton Solent University/Documents/Unreal Projects/SCTest_1 5.6 5.6/Content/Combat/Structs/Struct_HitboxData.uasset",
+				"C:/Users/0tales93/OneDrive - Solent University/OneDrive - Southampton Solent University/Documents/Unreal Projects/SCTest_1 5.6/Content/Combat/BPI_.uasset"
+			]
+		}
+	]
+}

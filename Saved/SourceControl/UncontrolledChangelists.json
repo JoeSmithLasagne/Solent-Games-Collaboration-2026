@@ -1,0 +1,21 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/irman/Documents/GitHub/Solent-Games-Collaboration-2026/Content/Blueprints/Enemies/Spider/AI_Spider/BBD_Spider.uasset",
+				"C:/Users/irman/Documents/GitHub/Solent-Games-Collaboration-2026/Content/Blueprints/Enemies/Spider/AI_Spider/AIC_Spider.uasset",
+				"C:/Users/irman/Documents/GitHub/Solent-Games-Collaboration-2026/Content/Levels/TestLevel.umap",
+				"C:/Users/irman/Documents/GitHub/Solent-Games-Collaboration-2026/Content/Blueprints/Enemies/Spider/BP_SpiderBase.uasset",
+				"C:/Users/irman/Documents/GitHub/Solent-Games-Collaboration-2026/Content/Blueprints/Enemies/Spider/AI_Spider/BT_Spider.uasset",
+				"C:/Users/irman/Documents/GitHub/Solent-Games-Collaboration-2026/Content/Blueprints/Enemies/Spider/AI_Spider/Tasks/BTTask_Spider_Chase.uasset",
+				"C:/Users/irman/Documents/GitHub/Solent-Games-Collaboration-2026/Content/Blueprints/Enemies/Spider/AI_Spider/Tasks/BTTask_Spider_Base_Attack.uasset",
+				"C:/Users/irman/Documents/GitHub/Solent-Games-Collaboration-2026/Content/Blueprints/Enemies/Spider/BP_WebProjectile.uasset",
+				"C:/Users/irman/Documents/GitHub/Solent-Games-Collaboration-2026/Content/Blueprints/Enemies/Spider/AI_Spider/Tasks/BTTask_Spider_Range_Attack.uasset",
+				"C:/Users/irman/Documents/GitHub/Solent-Games-Collaboration-2026/Content/Blueprints/Enemies/Spider/AIC_Spider.uasset"
+			]
+		}
+	]
+}

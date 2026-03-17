@@ -7,5 +7,5 @@ https://github.com/github/gitignore/blob/main/UnrealEngine.gitignore
 
 # Game Controls:
 W/A/S/D - Horizontal Movement
-Left Shift - Roll
-Mouse 1 (Left Mouse) - Attack
+Spacebar - Roll
+Left Mouse - Attack

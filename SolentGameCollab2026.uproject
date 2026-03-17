@@ -12,7 +12,7 @@
 			]
 		},
 		{
-			"Name": "HoudiniEngine",
+			"Name": "Paper2D",
 			"Enabled": false
 		}
 	]

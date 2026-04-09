@@ -9,3 +9,5 @@ https://github.com/github/gitignore/blob/main/UnrealEngine.gitignore
 W/A/S/D - Horizontal Movement
 Spacebar - Roll
 Left Mouse - Attack
+E - Open Inventory
+T - Pickup Item

@@ -18,6 +18,13 @@
 		{
 			"Name": "HoudiniEngine",
 			"Enabled": false
+		},
+		{
+			"Name": "TextureGraph",
+			"Enabled": true,
+			"SupportedTargetPlatforms": [
+				"Win64"
+			]
 		}
 	]
 }

@@ -14,17 +14,6 @@
 		{
 			"Name": "Paper2D",
 			"Enabled": false
-		},
-		{
-			"Name": "HoudiniEngine",
-			"Enabled": false
-		},
-		{
-			"Name": "TextureGraph",
-			"Enabled": true,
-			"SupportedTargetPlatforms": [
-				"Win64"
-			]
 		}
 	]
 }
